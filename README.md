@@ -1,2 +1,4 @@
 # VisionAI
 Plateforme d'intelligence artificielle développée en Python permettant l'analyse de données, les prédictions et la visualisation des résultats à travers une interface simple et intuitive.
+
+Ce projet est une plateforme d’intelligence artificielle développée en Python permettant l’analyse et la prédiction de données à l’aide de plusieurs algorithmes de Machine Learning. L’application intègre différents modèles tels que la Régression Linéaire (Linear Regression), le Random Forest et le K-Means Clustering. Elle offre des fonctionnalités de visualisation des données, d’entraînement des modèles, d’évaluation des performances et de génération de prédictions à partir de nouvelles données. L’objectif du projet est de fournir un environnement simple et interactif pour explorer et appliquer les principales techniques de l’intelligence artificielle et de la science des données.
